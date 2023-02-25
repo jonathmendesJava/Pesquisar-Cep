@@ -1,0 +1,6 @@
+{
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.sideBar.location": "left",
+    "workbench.activityBar.visible": true,
+    "zenMode.hideActivityBar": true
+}

@@ -1,0 +1,14 @@
+.botao1{
+    color: aqua;
+}
+
+.botao2{
+    color:blue;
+}
+
+.imagem1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
