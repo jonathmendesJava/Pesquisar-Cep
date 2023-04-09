@@ -1,14 +1,38 @@
-.botao1{
-    color: aqua;
+body{
+    background-color:ghostwhite !important;  
+    background-repeat:repeat-x !important;
+    background-repeat: inherit !important; 
+    margin-top: 100px !important;
 }
 
-.botao2{
-    color:blue;
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:bisque!important;
 }
 
-.imagem1{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.box{
+    margin: 5px;
+    background-color:aliceblue;
+    border-radius: 20px;
+    padding: 3px;
+    border-color:darkslategray;
+    width: 200px;
+    text-align:center;
+}
+
+.box::placeholder{
+    text-align: center;
+}
+
+#body2 label{
+    font-size: 25px !important;
+    font-family: arial !important;
+}
+
+#botaoPesquisar{
+    padding: 5px 10px 5px 10px;
+    border-radius: 15px;
+    border-color:darkslategray;
 }
